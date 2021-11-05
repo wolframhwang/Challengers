@@ -9,7 +9,7 @@
 - Kotlin
 
 # Target Online Judge
-- BOJ[BaekJoon Online Judge](https://www.acmicpc.net/)
+- [BaekJoon Online Judge](https://www.acmicpc.net/)
 - [LeetCode](https://leetcode.com/)
 - [CodeForces](https://codeforces.com/)
 
