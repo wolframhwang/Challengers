@@ -23,4 +23,4 @@
 
 | date       | problem set                                                  | 지웅 | 주혁 | 상도 |  건욱 | 
 | ---------- | ------------------------------------------------------------ | --- | ---- | ---- | ---- | 
-| 11.08      | [Unique Binary Search](https://leetcode.com/problems/unique-binary-search-trees/)   |  | | |  | 
+| 11.08      | [Unique Binary Search](https://leetcode.com/problems/unique-binary-search-trees/)   | ✅ | |✅ |  | 
