@@ -3,20 +3,13 @@
 
 class Solution {
     func minStartValue(_ nums: [Int]) -> Int {
-        for i in 1...10000 {
-            var sum = i
-            var isFail = false
-            for j in nums {
-                sum += j
-                if sum <= 0 {
-                    isFail = true
-                    break
-                }
-            }
-            if !isFail { return i}
-            
-        }
-        return 1
+        var minn = 0
+        var total = 0
         
+        for num in nums {
+            total += num
+            minn = min(minn, total)
+        }
+        return (-minn) + 1
     }
 }
