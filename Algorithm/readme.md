@@ -27,5 +27,5 @@
 | 11.09      | [전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)   | ✅ | ✅ | ✅|✅ |✅ |  |
 | 11.10      | [마법사 상어와 복제](https://www.acmicpc.net/problem/23290) | ✅ |  |✅ |✅  | |  |
 | 11.11      | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | ✅ | |✅ |✅  | ✅|  |
-| 11.12      | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | ✅ | | |✅  |✅ | |✅
+| 11.12      | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | ✅ | | |✅  |✅ |✅ |
 | 11.13      | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | ✅ | | | | | |
