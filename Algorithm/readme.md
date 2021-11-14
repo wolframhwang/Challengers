@@ -29,3 +29,4 @@
 | 11.11      | [Minimum Value to Get Positive Step by Step Sum](https://leetcode.com/problems/minimum-value-to-get-positive-step-by-step-sum/) | ✅ | |✅ |✅  | ✅|  |
 | 11.12      | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | ✅ | | |✅  |✅ |✅ |
 | 11.13      | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | ✅ | | | |✅ |✅ |
+| 11.14      | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) | | | | | | |
