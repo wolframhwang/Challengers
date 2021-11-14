@@ -4,7 +4,7 @@ private:
     vector<string> CombSet;
     int front;
     void makeCombset(string characters, string Comb, int length, int loc){
-        if(Comb.size() > 10000) return;
+        if(Comb.size() > 10000) return; // Constraints that the number of calling Next < 10000
         if(Comb.size() == length){
             CombSet.push_back(Comb);
             return;
