@@ -30,7 +30,7 @@
 | 11.12      | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | ✅ | ✅ |✅ |✅  |✅ |✅ |
 | 11.13      | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | ✅ | |✅ | |✅ |✅ |
 | 11.14      | [Iterator for Combination](https://leetcode.com/problems/iterator-for-combination/) |✅ | |✅ | |✅ |✅ |
-| 11.15      | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | | | ✅| | | |
+| 11.15      | [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/) | ✅ | | ✅| | | |
 | 11.16      | []() | | | | | | |
 | 11.17      | [공 이동 시뮬레이션](https://programmers.co.kr/learn/courses/30/lessons/87391) |✅ | | ✅| | | | 
 | 11.18      | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | ✅ | |  | | | |
