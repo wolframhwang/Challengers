@@ -1,17 +1,4 @@
 class Solution:
-    def deleteThis(self, root):
-        ret = root.right
-        if ret == None: return root.left
-        if ret.left:
-            prev = root
-            while ret.left:
-                prev = ret
-                ret = ret.left
-            prev.left = ret.right
-            ret.right = root.right
-        ret.left = root.left
-        return ret
-        
     def deleteNode(self, root: Optional[TreeNode], key: int) -> Optional[TreeNode]:
         if not root: return None
         if root.val > key:
@@ -19,5 +6,11 @@ class Solution:
         elif root.val < key:
             root.right = self.deleteNode(root.right, key)
         else:
-            return self.deleteThis(root)
+            if root.right == None: return root.left
+            new_node = root.right
+            while new_node.left:
+                new_node = new_node.left
+            new_node.right = self.deleteNode(root.right, new_node.val)
+            new_node.left = root.left
+            return new_node
         return root
