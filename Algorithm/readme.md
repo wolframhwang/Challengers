@@ -37,4 +37,4 @@
 | 11.19      | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | ✅ | |✅ | | | |
 | 11.20      | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | ✅ | |✅ | | | |
 | 11.21      | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |✅| |✅ | | | |
-| 11.22      | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | ✅ | | | | | |
+| 11.22      | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | ✅ | |✅ | | | |
