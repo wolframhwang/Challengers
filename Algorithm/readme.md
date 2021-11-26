@@ -41,4 +41,4 @@
 | 11.23      | [빛의 경로 사이클](https://programmers.co.kr/learn/courses/30/lessons/86052) | ✅ | |✅ | | | |
 | 11.24      | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | ✅ | |✅ | | | |
 | 11.25      | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) |✅ | | | | | |
-| 11.26      | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | | | | | | |
+| 11.26      | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | ✅ | | | | | |
