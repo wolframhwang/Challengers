@@ -42,6 +42,6 @@
 | 11.24      | [Sum of Nodes with Even-Valued Grandparent](https://leetcode.com/problems/sum-of-nodes-with-even-valued-grandparent/) | ✅ | |✅ | | | |
 | 11.25      | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) |✅ | |✅ | |✅ | |
 | 11.26      | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | ✅ | | ✅| |✅ | |
-| 11.27      | [모두 0으로 만들기](https://programmers.co.kr/learn/courses/30/lessons/76503) |  | |✅ | | | |
+| 11.27      | [모두 0으로 만들기](https://programmers.co.kr/learn/courses/30/lessons/76503) | ✅| |✅ | | | |
 | 11.28      | [아이템줍기](https://programmers.co.kr/learn/courses/30/lessons/87694) |  | |✅ | | | |
 
