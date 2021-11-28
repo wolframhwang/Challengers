@@ -34,7 +34,7 @@
 | 11.16      | []() | | | | | | |
 | 11.17      | [공 이동 시뮬레이션](https://programmers.co.kr/learn/courses/30/lessons/87391) |✅ | | ✅| | | |
 | 11.18      | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | ✅ | |✅  |✅ | ✅| |
-| 11.19      | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | ✅ | |✅ |✅ | | |
+| 11.19      | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | ✅ | |✅ |✅ |✅ | |
 | 11.20      | [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/) | ✅ | |✅ | | | |
 | 11.21      | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |✅| |✅ | | | |
 | 11.22      | [Delete Node in a BST](https://leetcode.com/problems/delete-node-in-a-bst/) | ✅ | |✅ | | | |
@@ -43,5 +43,5 @@
 | 11.25      | [Interval List Intersections](https://leetcode.com/problems/interval-list-intersections/) |✅ | |✅ | |✅ | |
 | 11.26      | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | ✅ | | ✅| |✅ | |
 | 11.27      | [모두 0으로 만들기](https://programmers.co.kr/learn/courses/30/lessons/76503) | ✅| |✅ | | | |
-| 11.28      | [아이템줍기](https://programmers.co.kr/learn/courses/30/lessons/87694) |  | |✅ | | | |
+| 11.28      | [아이템줍기](https://programmers.co.kr/learn/courses/30/lessons/87694) |  | |✅ | |✅ | |
 
