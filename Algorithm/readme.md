@@ -22,7 +22,8 @@
 
 | date       | problem set                                                  | 지웅 | 주혁 | 상도 |  건욱 | 유리 | 휘일 |
 | ---------- | ------------------------------------------------------------ | --- | ---- | ---- | ---- | ---- | ---- |
-| 12.01      | [House Robber](https://leetcode.com/problems/house-robber/) | | |✅ | | | |
+| 12.01      | [House Robber](https://leetcode.com/problems/house-robber/)  | ✅ | |✅ | | | |
+| 12.02      | []() | | | | | | |
 
 
 
