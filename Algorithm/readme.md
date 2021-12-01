@@ -18,9 +18,13 @@
 - Sangdo Lee
 - JuHyock Jang
 - Geonuk Park
+| date       | problem set                                                  | 지웅 | 주혁 | 상도 |  건욱 | 유리 | 휘일 |
+| ---------- | ------------------------------------------------------------ | --- | ---- | ---- | ---- | ---- | ---- |
+| 12.01      | [미안하다 이거 보여주려고 어그로 끌었다](https://www.acmicpc.net/problem/23634) | | | | | | |
 
 
 
+========================================================================================
 | date       | problem set                                                  | 지웅 | 주혁 | 상도 |  건욱 | 유리 | 휘일 |
 | ---------- | ------------------------------------------------------------ | --- | ---- | ---- | ---- | ---- | ---- |
 | 11.08      | [Unique Binary Search](https://leetcode.com/problems/unique-binary-search-trees/)   | ✅ | ✅ |✅ |✅   |  |  |
@@ -46,3 +50,4 @@
 | 11.28      | [아이템줍기](https://programmers.co.kr/learn/courses/30/lessons/87694) |✅ | |✅ | |✅ | |
 | 11.29      | [Accounts Merge](https://leetcode.com/problems/accounts-merge/) | ✅ | |✅ | | | |
 | 11.30      | [All Paths From Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/) | ✅ | | |✅ | | |
+
