@@ -25,7 +25,7 @@
 | 12.01      | [House Robber](https://leetcode.com/problems/house-robber/)                | ✅ | |✅ | | | |
 | 12.02      | [n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390) | ✅ | | ✅| | | |
 | 12.03      | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | ✅| | | | | |
-
+| 12.04      | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | ✅| | | | | |
 
 
 ========================================================================================
