@@ -27,6 +27,7 @@
 | 12.03      | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | ✅| | | | | |
 | 12.04      | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | ✅| | | | | |
 | 12.05      | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | ✅| | | | | |
+| 12.06      | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | | | | | | |
 
 ========================================================================================
 | date       | problem set                                                  | 지웅 | 주혁 | 상도 |  건욱 | 유리 | 휘일 |
