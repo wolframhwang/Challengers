@@ -1,23 +1,8 @@
-class Solution:
-    def oddEvenList(self, head: Optional[ListNode]) -> Optional[ListNode]:
-        h = ListNode(next=head)
-        even = ListNode()
-        cur = head
-        pprev = cur
-        while cur:
-            pprev = cur
-            if cur.next == None: break
-            nxt = cur.next
-            cur = nxt.next
-            nxt.next = even.next
-            even.next = nxt
-            pprev.next = cur
-            
-        cur = even.next
-        while cur:
-            nxt = cur.next
-            cur.next = pprev.next
-            pprev.next = cur
-            cur = nxt
-        return h.next
+    def rob(self, root: Optional[TreeNode]) -> int:
+        def rob_tree(root):
+            if root == None: return [0,0]
+            left = rob_tree(root.left)
+            right = rob_tree(root.right)
+            return [max([left[i] + right[j] for i in range(2) for j in range(2)]), root.val + left[0] + right[0]]
         
+        return max(rob_tree(root))
