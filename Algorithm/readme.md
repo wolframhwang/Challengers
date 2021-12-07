@@ -31,7 +31,7 @@
 | 12.05      | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | ✅| | | | | |
 | 12.06      | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | ✅| | | | | |
 | 12.07      | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | ✅| | | | | |
-
+| 12.08      | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | | | | | | |
 ========================================================================================
 | date       | problem set                                                  | 지웅 | 주혁 | 상도 |  건욱 | 유리 | 휘일 |
 | ---------- | ------------------------------------------------------------ | --- | ---- | ---- | ---- | ---- | ---- |
