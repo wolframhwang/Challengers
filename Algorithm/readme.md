@@ -22,16 +22,16 @@
 - Geonuk Park
 
 
-| date       | problem set                                                                | 지웅 | 주혁 | 상도 |  건욱 | 유리 | 휘일 |
-| ---------- | -------------------------------------------------------------------------- | --- | ---- | ---- | ---- | ---- | ---- |
-| 12.01      | [House Robber](https://leetcode.com/problems/house-robber/)                | ✅ | |✅ | | | |
-| 12.02      | [n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390) | ✅ | | ✅| | | |
-| 12.03      | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | ✅| |✅ | | | |
-| 12.04      | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | ✅| |✅ | | | |
-| 12.05      | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | ✅| |✅ | | | |
-| 12.06      | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | ✅| |✅ | | | |
-| 12.07      | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | ✅| |✅ | | | |
-| 12.08      | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | ✅| |✅ | | | |
+| date       | problem set                                                                | 지웅 | 주혁 | 상도 |  건욱 | 유리 |
+| ---------- | -------------------------------------------------------------------------- | --- | ---- | ---- | ---- | ---- |
+| 12.01      | [House Robber](https://leetcode.com/problems/house-robber/)                | ✅ | |✅ | | |
+| 12.02      | [n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390) | ✅ | | ✅| | |
+| 12.03      | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | ✅| |✅ | | |
+| 12.04      | [Stream of Characters](https://leetcode.com/problems/stream-of-characters/) | ✅| |✅ | | |
+| 12.05      | [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) | ✅| |✅ | | |
+| 12.06      | [House Robber III](https://leetcode.com/problems/house-robber-iii/) | ✅| |✅ | | |
+| 12.07      | [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) | ✅| |✅ | | |
+| 12.08      | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | ✅| |✅ | | |
 
 ========================================================================================
 | date       | problem set                                                  | 지웅 | 주혁 | 상도 |  건욱 | 유리 | 휘일 |
