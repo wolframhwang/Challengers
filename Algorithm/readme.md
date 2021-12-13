@@ -34,7 +34,7 @@
 | 12.08      | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) | ✅| |✅ | | |
 | 12.09      | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number/), [Binary Tree Tilt](https://leetcode.com/problems/binary-tree-tilt/) | ✅| |✅ | | |
 | 12.10      | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)  | ✅| |✅ | | |
-| 12.13      | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | | |✅ | | |
+| 12.13      | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | ✅| |✅ | | |
 | 12.14      | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | | | | | |
 ========================================================================================
 | date       | problem set                                                  | 지웅 | 주혁 | 상도 |  건욱 | 유리 | 휘일 |
