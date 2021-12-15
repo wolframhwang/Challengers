@@ -19,7 +19,7 @@ class Solution {
             if p.val < end.val {
                 var prev = lead
 				var cur = lead.next
-                while curr!.val <= p.val {
+                while cur!.val <= p.val {
                     prev = cur!
                     cur = cur!.next
                 }
