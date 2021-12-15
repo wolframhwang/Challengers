@@ -36,7 +36,8 @@
 | 12.10      | [Domino and Tromino Tiling](https://leetcode.com/problems/domino-and-tromino-tiling/)  | ✅| |✅ | | |
 | 12.13      | [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) | ✅| |✅ | | |
 | 12.14      | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | ✅| | | | |
-| 12.15      | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | | | | | |
+| 12.15      | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | ✅| | | | |
+| 12.16      | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | | | | | |
 
 ========================================================================================
 | date       | problem set                                                  | 지웅 | 주혁 | 상도 |  건욱 | 유리 | 휘일 |
