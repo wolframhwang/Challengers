@@ -38,6 +38,7 @@
 | 12.14      | [Consecutive Characters](https://leetcode.com/problems/consecutive-characters/) | ✅| |✅ | | |
 | 12.15      | [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) | ✅| |✅ | | |
 | 12.16      | [Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) | ✅| |✅ | | |
+| 12.17      | [Maximal Square](https://leetcode.com/problems/maximal-square/) | | | | | |
 
 ========================================================================================
 | date       | problem set                                                  | 지웅 | 주혁 | 상도 |  건욱 | 유리 | 휘일 |
