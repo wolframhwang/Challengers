@@ -42,7 +42,7 @@
 | 12.20      | [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) | ✅ | | | | |
 | 12.21      | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | ✅| | | | |
 | 12.22      | [Power of Two](https://leetcode.com/problems/power-of-two/) | ✅| | | | |
-| 12.23      | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | | | | | |
+| 12.23      | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | ✅| | | | |
 | 12.24      | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | | | | | |
 
 ========================================================================================
