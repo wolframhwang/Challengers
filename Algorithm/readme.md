@@ -44,7 +44,7 @@
 | 12.22      | [Power of Two](https://leetcode.com/problems/power-of-two/) | ✅| | | | |
 | 12.23      | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/) | ✅| | | | |
 | 12.24      | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | ✅| | | | |
-| 12.27      | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | | | | | |
+| 12.27      | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | ✅| | | | |
 
 ========================================================================================
 | date       | problem set                                                  | 지웅 | 주혁 | 상도 |  건욱 | 유리 | 휘일 |
