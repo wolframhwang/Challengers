@@ -1,3 +1,7 @@
+// 21 12 27 solved by Wolfram Hwang
+// Use DP
+// House Robber랑 개념은 똑같네요, 다만, 숫자를 축으로 사용한다는게 다른점인거같아요.
+
 class Solution {
     func deleteAndEarn(_ nums: [Int]) -> Int {
 		  var arr: [Int] = [Int](repeating: 0, count: 10001)
