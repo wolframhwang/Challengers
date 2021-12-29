@@ -46,6 +46,7 @@
 | 12.24      | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | ✅| | | | |
 | 12.27      | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | ✅| | | | |
 | 12.28      | [Jump Game](https://leetcode.com/problems/jump-game/) | ✅| | | | |
+| 12.29      | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | | | | | |
 
 ========================================================================================
 | date       | problem set                                                  | 지웅 | 주혁 | 상도 |  건욱 | 유리 | 휘일 |
