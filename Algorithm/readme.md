@@ -46,7 +46,9 @@
 | 12.24      | [House Robber II](https://leetcode.com/problems/house-robber-ii/) | ✅| | | | |
 | 12.27      | [Delete and Earn](https://leetcode.com/problems/delete-and-earn/) | ✅| | | | |
 | 12.28      | [Jump Game](https://leetcode.com/problems/jump-game/) | ✅| | | | |
-| 12.29      | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | | | | | |
+| 12.29      | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | ✅| | | | |
+| 12.30      | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | ✅| | | | |
+| 12.31      | [우수 마을](https://www.acmicpc.net/problem/1949) | ✅| | | | |
 
 ========================================================================================
 | date       | problem set                                                  | 지웅 | 주혁 | 상도 |  건욱 | 유리 | 휘일 |
