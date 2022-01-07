@@ -18,8 +18,8 @@
 # Participants.
 - Wolfram Hwang
 - Sangdo Lee
-- JuHyock Jang
-- Geonuk Park
+- <u>JuHyock Jang</u>
+- <u>Geonuk Park</u>
 
 
 | date       | problem set                                                                | 지웅 | 주혁 | 상도 |  건욱 | 유리 |
