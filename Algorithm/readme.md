@@ -49,7 +49,7 @@
 | 12.29      | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | ✅| | | | |
 | 12.30      | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | ✅| | | | |
 | 12.31      | [우수 마을](https://www.acmicpc.net/problem/1949) | ✅| | | | |
-| 01.03      | [best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | | | | | |
+| 01.03      | [best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | ✅| | | | |
 | 01.04      | [push-dominoes](https://leetcode.com/problems/push-dominoes/) | | | | | |
 
 ========================================================================================
