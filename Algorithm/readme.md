@@ -24,6 +24,13 @@
 
 | date       | problem set                                                                | 지웅 | 주혁 | 상도 |  건욱 | 유리 |
 | ---------- | -------------------------------------------------------------------------- | --- | ---- | ---- | ---- | ---- |
+| 01.03      | [best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | ✅| | | | |
+| 01.04      | [push-dominoes](https://leetcode.com/problems/push-dominoes/) | | | | | |
+
+========================================================================================
+
+| date       | problem set                                                                | 지웅 | 주혁 | 상도 |  건욱 | 유리 |
+| ---------- | -------------------------------------------------------------------------- | --- | ---- | ---- | ---- | ---- |
 | 12.01      | [House Robber](https://leetcode.com/problems/house-robber/)                | ✅ | |✅ | | |
 | 12.02      | [n^2 배열 자르기](https://programmers.co.kr/learn/courses/30/lessons/87390) | ✅ | | ✅| | |
 | 12.03      | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | ✅| |✅ | | |
@@ -49,8 +56,7 @@
 | 12.29      | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | ✅| | | | |
 | 12.30      | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | ✅| | | | |
 | 12.31      | [우수 마을](https://www.acmicpc.net/problem/1949) | ✅| | | | |
-| 01.03      | [best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | ✅| | | | |
-| 01.04      | [push-dominoes](https://leetcode.com/problems/push-dominoes/) | | | | | |
+
 
 ========================================================================================
 | date       | problem set                                                  | 지웅 | 주혁 | 상도 |  건욱 | 유리 | 휘일 |
