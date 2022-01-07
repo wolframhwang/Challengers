@@ -22,10 +22,10 @@
 - ~~Geonuk Park~~(Woori FIS)
 
 
-| date       | problem set                                                                | 지웅 | 주혁 | 상도 |  건욱 | 유리 |
-| ---------- | -------------------------------------------------------------------------- | --- | ---- | ---- | ---- | ---- |
-| 01.03      | [best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | ✅| | | | |
-| 01.04      | [push-dominoes](https://leetcode.com/problems/push-dominoes/) | | | | | |
+| date       | problem set                                                                | 지웅 | 상도 |
+| ---------- | -------------------------------------------------------------------------- | --- | ---- |
+| 01.03      | [best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | ✅| | 
+| 01.04      | [push-dominoes](https://leetcode.com/problems/push-dominoes/) | | |
 
 ========================================================================================
 
