@@ -26,7 +26,7 @@
 | ---------- | -------------------------------------------------------------------------- | --- | ---- |
 | 01.03      | [best-time-to-buy-and-sell-stock-with-transaction-fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) | ✅| | 
 | 01.04      | [push-dominoes](https://leetcode.com/problems/push-dominoes/) | ✅ | |
-| 01.10      | [Decode Ways](https://leetcode.com/problems/decode-ways/) | | |
+| 01.10      | [Decode Ways](https://leetcode.com/problems/decode-ways/) | ✅| |
 
 ========================================================================================
 
