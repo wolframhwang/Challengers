@@ -29,6 +29,7 @@
 | 01.10      | [Decode Ways](https://leetcode.com/problems/decode-ways/) | ✅| |
 | 01.11      | [타일 채우기](https://www.acmicpc.net/problem/2133) | ✅| |
 | 01.12      | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | ✅| |
+| 01.13      | [합분해](https://www.acmicpc.net/problem/2225) | ✅| |
 
 ========================================================================================
 
