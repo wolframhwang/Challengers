@@ -31,6 +31,7 @@
 | 01.12      | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | ✅| |
 | 01.13      | [합분해](https://www.acmicpc.net/problem/2225) | ✅| |
 | 01.19      | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ✅| |
+| 01.20      | [인하니카 공화국](https://www.acmicpc.net/problem/12784) | ✅| |
 
 ========================================================================================
 
