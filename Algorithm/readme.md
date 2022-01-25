@@ -33,6 +33,7 @@
 | 01.19      | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | ✅| |
 | 01.20      | [인하니카 공화국](https://www.acmicpc.net/problem/12784) | ✅| |
 | 01.21      | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | ✅ | |
+| 01.25      | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | ✅| |
 
 ========================================================================================
 
