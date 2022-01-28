@@ -35,7 +35,8 @@
 | 01.21      | [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/) | ✅ | |
 | 01.25      | [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) | ✅| |
 | 01.26      | [Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) | ✅| |
-| 01.27      | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | | |
+| 01.27      | [All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | ✅| |
+| 01.28      | [박성원](https://www.acmicpc.net/problem/1086) | ☑️| |
 
 ========================================================================================
 
