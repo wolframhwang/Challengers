@@ -24,6 +24,7 @@
 | date       | problem set                                                                | 지웅 | 상도 |
 | ---------- | -------------------------------------------------------------------------- | --- | ---- |
 | 02.07      | [1의 개수 세기](https://www.acmicpc.net/problem/9527) | ✅| | 
+| 02.08      | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) | ✅| |
 
 
 | date       | problem set                                                                | 지웅 | 상도 |
