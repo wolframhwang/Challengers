@@ -25,6 +25,7 @@
 | ---------- | -------------------------------------------------------------------------- | --- | ---- |
 | 02.07      | [1의 개수 세기](https://www.acmicpc.net/problem/9527) | ✅| | 
 | 02.08      | [Factorial Trailing Zeros](https://leetcode.com/problems/factorial-trailing-zeroes/) | ✅| |
+| 02.10      | [Maximum Compatibility Score Sum](https://leetcode.com/problems/maximum-compatibility-score-sum/) | ✅| |
 
 
 | date       | problem set                                                                | 지웅 | 상도 |
